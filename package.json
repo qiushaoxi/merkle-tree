@@ -1,0 +1,8 @@
+{
+  "name": "merkle-tree",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "test.js",
+  "author": "joshua qiu",
+  "license": "MIT"
+}
